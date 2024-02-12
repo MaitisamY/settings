@@ -1,7 +1,8 @@
 body {
-    background: rgb(235,183,10);
+/*     background: rgb(235,183,10);
     background: linear-gradient(90deg, rgba(235,183,10,1) 0%, rgba(255,193,7,1) 50%, 
-    rgba(213,148,27,0.804359243697479) 100%);
+    rgba(213,148,27,0.804359243697479) 100%); */
+    background-color: #FFC107;
 }
 
 .head-font {
